@@ -184,7 +184,6 @@ const CompetencyChart = () => {
           label: {
             show: true,
             position: 'right',
-            fontSize: 14,
             color: '#000',
             fontSize: 10,
             fontWeight: 700,
